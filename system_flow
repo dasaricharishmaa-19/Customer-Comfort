@@ -1,0 +1,41 @@
+👤 CUSTOMER
+     │
+     ▼
+💬 ENTER CUSTOMER COMPLAINT
+     │
+     ▼
+🌐 FRONTEND
+HTML + CSS + JavaScript
+     │
+     │ HTTP POST Request
+     ▼
+⚙️ FASTAPI BACKEND
+Python
+     │
+     ▼
+🤖 FEATHERLESS AI API
+     │
+     ▼
+🧠 QWEN AI MODEL
+     │
+     │ Analyze Customer Message
+     ▼
+📊 EMOTION & DISCOMFORT ANALYSIS
+     │
+     ├── 😊 Emotion
+     ├── 🔥 Intensity
+     ├── 😟 Mood
+     ├── 😤 Frustration
+     ├── 🚨 Urgency
+     └── 🎯 Reason for Discomfort
+     │
+     ▼
+💡 RECOMMENDED RESPONSE
+     │
+     ▼
+🖥️ RESULT DISPLAYED
+ON FRONTEND
+     │
+     ▼
+👨‍💼 SUPPORT TEAM
+Takes appropriate action
